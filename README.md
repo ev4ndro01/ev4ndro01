@@ -1,6 +1,9 @@
 👋 Olá, eu sou o Evandro
 
-🎓 Estudante de Engenharia de Software 💻 Focado em desenvolvimento web e tecnologia 📚 Sempre aprendendo algo novo — principalmente inglês e programação 🎸 Músico nas horas vagas (contrabaixo e violão)
+🎓 Estudante de Engenharia de Software 
+💻 Focado em desenvolvimento web e tecnologia 
+📚 Sempre aprendendo algo novo — principalmente inglês e programação 
+🎸 Músico nas horas vagas (contrabaixo e violão)
 
 🚀 Sobre mim
 
@@ -22,6 +25,7 @@ Git & GitHub
 MySQL
 VS Code
 Java
+
 📈 Objetivos
 
 Conseguir minha primeira oportunidade na área de TI 💼
